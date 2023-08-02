@@ -1,4 +1,6 @@
 # Pharmaceutical-App
+This is an Android mobile app that allows users to lookup information about certain prescriptions. It also allows them to add, delete, save, and set reminders for prescriptions as well. 
+
 1. Download the zip file.
 2. Run the app on your emulator of choice. The Pixel 2 API 30 was used for this app.
 3. Test the login function by typing in "GrandmaJenkins" as the username and "speedyRecov123" as the password.
